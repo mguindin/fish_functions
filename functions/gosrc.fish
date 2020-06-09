@@ -1,3 +1,3 @@
 function gosrc -d "my go src directory"
-    cd ~/go/src/github.com/
+  cd $HOME/go/src/github.com/
 end
